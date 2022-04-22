@@ -53,7 +53,7 @@ class Form extends React.Component {
             <div >
 
               <h1 className="title">New Menu Item</h1>
-              <form action="/">
+              <form action="/popMenu.github.io">
               <ul className="in">
 
                 <li>
